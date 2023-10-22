@@ -31,7 +31,7 @@ The project leverages two primary SQL files for its analysis:
 
 #### Analysis by Vaccination:
 
-  - **Rolling Vaccinations by Date**: Chronicles the rolling count of new vaccinations in Greece.
+  - **Rolling Vaccinations by Date**: Records the rolling count of new vaccinations in Greece.
   - **Percentage of Vaccinated Population**: Utilizes a CTE to compute the cumulative percentage of the Greek population that has been vaccinated over time.
 
 #### Impact on Greek Stock Market:
@@ -40,7 +40,7 @@ The project leverages two primary SQL files for its analysis:
 
 ### 2. [SQL-Tableau.sql](./SQL-Tableau.sql)
 
-This file contains SQL queries explicitly crafted to channel data into Tableau for the purpose of visualization.
+This file contains SQL queries explicitly created to channel data into Tableau for the purpose of visualization.
 
 
 
